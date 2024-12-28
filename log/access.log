@@ -1,0 +1,5 @@
+[2024-12-27T20:50:06.646] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+[2024-12-27T20:50:16.284] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+[2024-12-27T20:50:58.976] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+[2024-12-27T20:51:06.844] [ERROR] http - ::ffff:127.0.0.1 - - "GET /david HTTP/1.1" 404 144 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+[2024-12-27T20:51:09.232] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 - "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
